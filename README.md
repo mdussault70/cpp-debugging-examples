@@ -13,9 +13,9 @@ g++ -g main.cpp -o crash_example
 ./crash_example
 
 ### Debug with gdb
-gdb ./crash_example
-run
-bt
+gdb ./crash_example  
+run  
+bt  
 
 ## Purpose
 
